@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "FinalFantasyMod",
+    "name": "FinalFantasyMod",
+    "maintainers": [ "baratan-creates" ],
+    "description": "Adds Final Fantasy creatures. When the Catacylsm struck, portals to the Final Fantasy Franchise opened, and creatures crossed though. Some friendly, some enemy.",
+    "category": "creatures",
+    "dependencies": [ "bn" ]
+  }
+]

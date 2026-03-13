@@ -1,0 +1,23 @@
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockRealXotto", "MSX++DEAD_PEOPLE" ],
+    "tiles-new": [
+      {
+        "file": "FFMod_normal.png",
+        "tiles": [
+          { "id": "bg_shadow_normal", "fg": 1, "rotates": false },
+          { "id": "mon_chocobo", "fg": 2, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_chocobo", "fg": 3, "rotates": true },
+          { "id": "mon_chocobo_hatchling", "fg": 4, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_chocobo_hatchling", "fg": 5, "rotates": true },
+        ],
+        "//": "range 1 to 16",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0
+      }
+    ]
+  }
+]

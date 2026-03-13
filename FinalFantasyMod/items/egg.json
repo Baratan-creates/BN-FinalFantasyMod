@@ -1,0 +1,26 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "egg_chocobo",
+    "name": "chocobo egg",
+    "looks_like": "egg_reptile",
+    "weight": "2 kg",
+    "color": "yellow",
+    "spoils_in": "32 days",
+    "comestible_type": "FOOD",
+    "symbol": "o",
+    "quench": 4,
+    "healthy": 1,
+    "calories": 2600,
+    "description": "A large, round egg laid by a chocobo.",
+    "price": "5 USD",
+    "material": [ "egg" ],
+    "volume": "6800 ml",
+    "stack_size": 4,
+    "fun": -6,
+    "rot_spawn": "GROUP_EGG_CHOCOBO",
+    "rot_spawn_chance": 70,
+    "vitamins": [ [ "egg_allergen", 1 ] ],
+    "copy-from": "egg_chicken"
+  }
+]
