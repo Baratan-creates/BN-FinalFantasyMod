@@ -52,7 +52,7 @@
     "food": [
       "BIRDFOOD"
     ],
-    "feed": "The %s seems to like you!",
+    "feed": "The %s seems to like you! WARK!",
     "pet": "The %s clucks happily at you as you pat its head. WARK!"
   }
 },
@@ -91,8 +91,8 @@
     "food": [
       "BIRDFOOD"
     ],
-    "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-    "pet": "The %s runs around your leg."
+    "feed": "The %s seems to like you!  It runs around your legs and seems friendly. Cheep-Cheep!",
+    "pet": "The %s runs around your leg. Cheep-Cheep!"
   },
   "flags": [
     "SEES",
