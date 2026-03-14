@@ -1,0 +1,24 @@
+{
+  "id": "chocobo_tack",
+  "type": "GENERIC",
+  "category": "tools_farming",
+  "name": {
+    "str": "chocobo tack"
+  },
+  "description": "A saddle, bridle, and associated tack that can be placed on a tamed animal that is capable of being ridden.",
+  "weight": "2 kg",
+  "volume": "7 L",
+  "price": "0 cent",
+  "price_postapoc": "10 USD",
+  "to_hit": -1,
+  "bashing": 5,
+  "material": [
+    "leather",
+    "steel"
+  ],
+  "symbol": "M",
+  "color": "yellow",
+  "flags": [
+    "TACK"
+  ]
+}

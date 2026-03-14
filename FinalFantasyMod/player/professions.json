@@ -1,0 +1,28 @@
+[
+  {
+    "type": "profession",
+    "id": "ff_chocobo_express",
+    "name": "Chocobo Express",
+    "description": "As you were delivering letters on the back of your chocobo, suddenly a portal opened up in front of you...",
+    "points": 3,
+    "skills": [ { "level": 3, "name": "survival" } ],
+    "traits": [ "ANIMALEMPATH" ],
+    "pets": [ { "name": "mon_chocobo", "amount": 1 } ],
+    "items": {
+      "both": [
+        "postman_shirt",
+        "postman_hat",
+        "socks",
+        "postman_shorts",
+        "leather_belt",
+        "boots",
+        "saddlebag",
+        "chocobo_tack",
+        "birdfood",
+        "flyer"
+      ],
+      "male": [ "briefs" ],
+      "female": [ "bra", "panties" ]
+    }
+  }
+]

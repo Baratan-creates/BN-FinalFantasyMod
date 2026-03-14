@@ -14,6 +14,9 @@ It adds, *attempts to add*, Final Fantasy themed monsters, items, professions an
 - **Chocobo Chick**. A baby chocobo bird. grows into a chocobo.
 ### Items
 - **Chocobo Egg**. Laid by adult chocobos, can hatch a chocobo chick when expired.
+### Proefessions
+- **Chocobo Express**.
+> As you were delivering letters on the back of your chocobo, suddenly a portal opened up in front of you...
 
 ---
 # How do I Install it?
