@@ -1,6 +1,8 @@
 # Cataclysm: Brighter-Nights FinalFantasyMod
 A Final Fantasy themed mod-pack for [Cataclysm: Brighter Nights.](https://github.com/cataclysmbn/Cataclysm-BN)
-![alt text](image.png)
+
+<img width="612" height="240" alt="image" src="https://github.com/user-attachments/assets/765b7e21-0e2b-40f9-a946-b8b4e045ddf7" />
+
 
 ---
 # What does it do?
