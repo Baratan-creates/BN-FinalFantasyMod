@@ -12,8 +12,12 @@ It adds, *attempts to add*, Final Fantasy themed monsters, items, professions an
 ### Monsters
 - **Chocobo**. A large yellow bird, can be tamed with `bird food`, and ridden like a horse with Survival Skill 3 and `Horse tack`. They can be found naturally in forests.
 - **Chocobo Chick**. A baby chocobo bird. grows into a chocobo.
+- **Black Chocobo**. A large purple bird, can be tamed with `bird food`, and ridden like a horse with Survival Skill 3 and `Horse tack`. They can be found naturally in forests. These are rarer, and more dangerous than yellow chocobos.
+- **Black Chocobo Chick**. A baby black chocobo bird. grows into a black chocobo.
+- **Red Chocobo**. A large red bird, can be tamed with `bird food`, and ridden like a horse with Survival Skill 3 and `Horse tack`. They can be found naturally in forests. These are the rarest, and most dangerous chocobos.
+- **Red Chocobo Chick**. A baby red chocobo bird. grows into a red chocobo.
 ### Items
-- **Chocobo Egg**. Laid by adult chocobos, can hatch a chocobo chick when expired.
+- **Chocobo Egg**. Laid by adult chocobos, can hatch a chocobo chick when expired. Has a rare, and very rare chance of hatching a black or red chocobo.
 ### Proefessions
 - **Chocobo Express**.
 > As you were delivering letters on the back of your chocobo, suddenly a portal opened up in front of you...
