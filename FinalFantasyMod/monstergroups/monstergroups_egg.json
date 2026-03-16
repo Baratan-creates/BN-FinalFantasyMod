@@ -3,6 +3,10 @@
     "name": "GROUP_EGG_CHOCOBO",
     "type": "monstergroup",
     "default": "mon_chocobo_hatchling",
-    "monsters": [ { "monster": "mon_chocobo_hatchling", "freq": 1000, "cost_multiplier": 1 } ]
+    "monsters": [ 
+	{ "monster": "mon_chocobo_hatchling", "freq": 1000, "cost_multiplier": 1 }
+	{ "monster": "mon_chocobo_hatchling_black", "freq": 100, "cost_multiplier": 1 }
+	{ "monster": "mon_chocobo_hatchling_red", "freq": 10, "cost_multiplier": 1 }
+	]
   }
 ]
