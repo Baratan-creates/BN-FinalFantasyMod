@@ -210,7 +210,7 @@
   "copy-from": "mon_chocobo_hatchling"
 },
 	  {
-  "id": "mon_chocobo_red"
+  "id": "mon_chocobo_red",
   "type": "MONSTER",
   "name": { "str": "Red Chocobo" },
   "description": "A large bird, about the size of an overgrown ostritch. It's feathers are shimmering shades of red. It has a strong neck, and back, a sharp beak and talons. It appears shy.",
