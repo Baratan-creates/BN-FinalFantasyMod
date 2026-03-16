@@ -269,7 +269,7 @@
 {
   "id": "mon_chocobo_hatchling_red",
   "type": "MONSTER",
-  "name": { "str": "Black Chocobo Hatchling" },
+  "name": { "str": "Red Chocobo Hatchling" },
   "description": "A small bird, about the size of a chicken hatchling. It's feathers are shimmering shades of red. It has a strong neck, and back, a sharp beak and talons. It appears shy.",
   "default_faction": "small_animal",
   "bodytype": "bird",
