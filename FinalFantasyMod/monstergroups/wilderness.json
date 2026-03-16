@@ -9,11 +9,11 @@
       { "monster": "mon_chocobo", "freq": 10, "cost_multiplier": 0, "pack_size": [ 4, 8 ],
         "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
       { "monster": "mon_chocobo_hatchling",  "freq": 10, "cost_multiplier": 25, "pack_size": [ 4, 9 ],
-        "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] }
+        "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
 	      { "monster": "mon_chocobo_black", "freq": 5, "cost_multiplier": 0, "pack_size": [ 4, 8 ],
         "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
       { "monster": "mon_chocobo_hatchling_black",  "freq": 5, "cost_multiplier": 25, "pack_size": [ 4, 9 ],
-        "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] }
+        "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
 	      { "monster": "mon_chocobo_red", "freq": 1, "cost_multiplier": 0, "pack_size": [ 4, 8 ],
         "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
       { "monster": "mon_chocobo_hatchling_red",  "freq": 1, "cost_multiplier": 25, "pack_size": [ 4, 9 ],
