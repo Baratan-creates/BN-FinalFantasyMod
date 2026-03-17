@@ -9,20 +9,55 @@
     "traits": [ "ANIMALEMPATH" ],
     "pets": [ { "name": "mon_chocobo", "amount": 1 } ],
     "items": {
-      "both": [
-        "postman_shirt",
-        "postman_hat",
-        "socks",
-        "postman_shorts",
-        "leather_belt",
-        "boots",
-        "saddlebag",
-        "chocobo_tack",
-        "birdfood",
-        "flyer"
-      ],
-      "male": [ "briefs" ],
-      "female": [ "bra", "panties" ]
+      "both": {
+        "items": [
+          "postman_shirt",
+          "postman_hat",
+          "socks",
+          "postman_shorts",
+          "leather_belt",
+          "boots",
+          "saddlebag",
+          "chocobo_tack",
+          "birdfood"
+        ],
+        "entries": [ { "item": "flyer", "charges": 30 } ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "sports_bra", "boy_shorts" ]
+    }
+  },
+  {
+    "type": "profession",
+    "id": "ff_chocobo_trainer",
+    "name": "Chocobo Trainer",
+    "description": "As you were training your chocobo on the ranch, a mysterious portal appeared and your bird ran through. You followed it.",
+    "points": 5,
+    "skills": [
+      { "level": 2, "name": "swimming" },
+      { "level": 2, "name": "cutting" },
+      { "level": 3, "name": "survival" },
+      { "level": 2, "name": "dodge" }
+    ],
+    "traits": [ "ANIMALEMPATH" ],
+    "pets": [ { "name": "mon_chocobo", "amount": 1 } ],
+    "items": {
+      "both": {
+        "items": [
+          "gloves_leather",
+          "chaps_leather",
+          "socks",
+          "boots_western",
+          "leather_belt",
+          "jeans",
+          "longshirt",
+          "chocobo_tack",
+          "leather_armor_medium_quadruped"
+        ],
+        "entries": [ { "item": "birdfood", "charges": 5 }, { "item": "bullwhip", "custom-flags": [ "auto_wield" ] } ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "sports_bra", "boy_shorts" ]
     }
   }
 ]
