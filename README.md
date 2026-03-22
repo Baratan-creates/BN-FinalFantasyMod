@@ -10,17 +10,17 @@ It adds, *attempts to add*, Final Fantasy themed monsters, items, professions an
 
 ## Currently Adds:
 ### Monsters
-- **Chocobo**. A large yellow bird, can be tamed with `bird food`, and ridden like a horse with Survival Skill 3 and `Horse tack`. They can be found naturally in forests.
-- **Chocobo Chick**. A baby chocobo bird. grows into a chocobo.
-- **Black Chocobo**. A large purple bird, can be tamed with `bird food`, and ridden like a horse with Survival Skill 3 and `Horse tack`. They can be found naturally in forests. These are rarer, and more dangerous than yellow chocobos.
-- **Black Chocobo Chick**. A baby black chocobo bird. grows into a black chocobo.
-- **Red Chocobo**. A large red bird, can be tamed with `bird food`, and ridden like a horse with Survival Skill 3 and `Horse tack`. They can be found naturally in forests. These are the rarest, and most dangerous chocobos.
-- **Red Chocobo Chick**. A baby red chocobo bird. grows into a red chocobo.
+- **Chocobo**. A large yellow bird, can be tamed with `bird food`, and ridden like a horse with Survival Skill 3 and `Horse tack` or `Chocobo Tack`. Lays eggs that can hatch chocobos of any variety. They can be found naturally in forests.
+- **Chocobo Chick**. A baby chocobo bird. grows into a chocobo. Can be yellow, black or red.
+- **Black Chocobo**. These are rarer, and more dangerous than yellow chocobos.
+- **Red Chocobo**. These are the rarest, and most dangerous chocobos.
 ### Items
 - **Chocobo Egg**. Laid by adult chocobos, can hatch a chocobo chick when expired. Has a rare, and very rare chance of hatching a black or red chocobo.
-### Proefessions
+### Professions
 - **Chocobo Express**.
 > As you were delivering letters on the back of your chocobo, suddenly a portal opened up in front of you...
+- **Chocobo Trainer**
+> As you were training your chocobo on the ranch, a mysterious portal appeared and your bird ran through. You followed it.
 
 ---
 # How do I Install it?
