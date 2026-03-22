@@ -1,0 +1,31 @@
+[
+  {
+    "id": "harvest_mon_chocobo",
+    "//": "drops large stomach",
+    "type": "harvest",
+    "entries": [
+      { "drop": "animal_blood", "type": "blood", "mass_ratio": 0.1 },
+      { "drop": "meat", "type": "flesh", "mass_ratio": 0.32 },
+      { "drop": "meat_scrap", "type": "flesh", "mass_ratio": 0.01 },
+      { "drop": "lung", "type": "flesh", "mass_ratio": 0.0035 },
+      { "drop": "liver", "type": "offal", "mass_ratio": 0.01 },
+      { "drop": "brain", "type": "flesh", "mass_ratio": 0.005 },
+      { "drop": "sweetbread", "type": "flesh", "mass_ratio": 0.002 },
+      { "drop": "kidney", "type": "offal", "mass_ratio": 0.002 },
+      { "drop": "stomach_large", "scale_num": [ 1, 1 ], "max": 1, "type": "offal" },
+      { "drop": "sinew", "type": "bone", "mass_ratio": 0.001 },
+      { "drop": "bone", "type": "bone", "mass_ratio": 0.15 },
+      { "drop": "feather", "type": "skin", "mass_ratio": 0.01 },
+      { "drop": "fat", "type": "flesh", "mass_ratio": 0.07 }
+    ]
+  },
+  {
+    "id": "harvest_mon_chocobo_hatchling",
+    "type": "harvest",
+    "entries": [
+      { "drop": "animal_blood", "type": "blood", "mass_ratio": 0.1 },
+      { "drop": "meat_scrap", "type": "flesh", "mass_ratio": 0.4 },
+      { "drop": "feather", "type": "skin", "mass_ratio": 0.01 }
+    ]
+  }
+]
