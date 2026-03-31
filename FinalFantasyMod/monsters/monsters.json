@@ -45,7 +45,13 @@
       "PATH_AVOID_DANGER_1",
       "WARM",
       "FLIES",
-      "HIT_AND_RUN"
+      "HIT_AND_RUN",
+      "MOUNTABLE_STAIRS",
+      "MOUNTABLE_LADDER",
+      "MOUNTABLE_OBSTACLES",
+      "MOUNTABLE_DOORS",
+      "MOUNTABLE_LEDGE",
+      "COMBAT_MOUNT"
     ],
     "petfood": {
       "food": [ "BIRDFOOD" ],
