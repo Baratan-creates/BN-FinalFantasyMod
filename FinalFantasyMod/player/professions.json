@@ -19,7 +19,8 @@
           "boots",
           "saddlebag",
           "chocobo_tack",
-          "birdfood"
+          "birdfood",
+          "rope_6"
         ],
         "entries": [ { "item": "flyer", "charges": 30 } ]
       },
@@ -30,7 +31,7 @@
   {
     "type": "profession",
     "id": "ff_chocobo_trainer",
-    "name": "Chocobo Trainer",
+    "name": "Chocobo Rancher",
     "description": "As you were training your chocobo on the ranch, a mysterious portal appeared and your bird ran through. You followed it.",
     "points": 5,
     "skills": [
@@ -52,7 +53,43 @@
           "jeans",
           "longshirt",
           "chocobo_tack",
-          "leather_armor_medium_quadruped"
+          "rope_6"
+        ],
+        "entries": [ { "item": "birdfood", "charges": 5 }, { "item": "bullwhip", "custom-flags": [ "auto_wield" ] } ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "sports_bra", "boy_shorts" ]
+    }
+  },
+  {
+    "type": "profession",
+    "id": "ff_chocobo_knight",
+    "name": "Chocobo Knight",
+    "description": "As you were patrolling your demense on your trusty chocobo mount, a mysterious portal appeared and you charged inside.",
+    "points": 7,
+    "skills": [
+      { "level": 2, "name": "swimming" },
+      { "level": 2, "name": "stabbing" },
+      { "level": 5, "name": "survival" },
+      { "level": 2, "name": "dodge" }
+    ],
+    "traits": [ "ANIMALEMPATH" ],
+    "pets": [ { "name": "mon_chocobo", "amount": 1 } ],
+    "items": {
+      "both": {
+        "items": [
+          "gloves_leather",
+          "armor_larmor",
+          "socks",
+          "boots_larmor",
+          "leather_belt",
+          "shield_leather",
+          "helmet_larmor",
+          "armguard_larmor",
+          "chocobo_tack",
+          "leather_armor_medium_bird",
+          "rope_6",
+          "spear_copper"
         ],
         "entries": [ { "item": "birdfood", "charges": 5 }, { "item": "bullwhip", "custom-flags": [ "auto_wield" ] } ]
       },

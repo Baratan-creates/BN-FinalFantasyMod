@@ -1,24 +1,75 @@
-{
-  "id": "chocobo_tack",
-  "type": "GENERIC",
-  "category": "tools_farming",
-  "name": {
-    "str": "chocobo tack"
+[
+  {
+    "id": "chocobo_tack",
+    "type": "GENERIC",
+    "category": "tools_farming",
+    "name": { "str": "chocobo tack" },
+    "description": "A saddle, bridle, and associated tack that can be placed on a tamed animal that is capable of being ridden.",
+    "weight": "2 kg",
+    "volume": "7 L",
+    "price": "0 cent",
+    "price_postapoc": "10 USD",
+    "to_hit": -1,
+    "bashing": 5,
+    "material": [ "leather", "steel" ],
+    "symbol": "M",
+    "color": "yellow",
+    "flags": [ "TACK" ]
   },
-  "description": "A saddle, bridle, and associated tack that can be placed on a tamed animal that is capable of being ridden.",
-  "weight": "2 kg",
-  "volume": "7 L",
-  "price": "0 cent",
-  "price_postapoc": "10 USD",
-  "to_hit": -1,
-  "bashing": 5,
-  "material": [
-    "leather",
-    "steel"
-  ],
-  "symbol": "M",
-  "color": "yellow",
-  "flags": [
-    "TACK"
-  ]
-}
+  {
+    "id": "leather_armor_medium_chocobo",
+    "copy-from": "medium_quadruped_armor",
+    "type": "PET_ARMOR",
+    "name": {
+      "str": "boiled leather medium chocobo barding with caprison",
+      "str_pl": "boiled leather medium chocobo bardings with caprison"
+    },
+    "symbol": "[",
+    "min_pet_vol": "250 L",
+    "max_pet_vol": "500 L",
+    "pet_bodytype": "bird",
+    "flags": [ "IS_PET_ARMOR" ],
+    "color": "yellow",
+    "description": "A full barding for a chocobo consisting of boiled leather and cloth undercovering.  This caparison is depicting a battle between a monstrous dragon and regal griffin.  You could put this on a friendly medium quadruped.",
+    "price": "300 USD",
+    "price_postapoc": "30 USD",
+    "material": [ "cotton", "leather" ],
+    "weight": "15 kg",
+    "volume": "150 L",
+    "material_thickness": 6,
+    "snippet_category": [
+      {
+        "id": "battle",
+        "text": "A full barding for medium quadrupeds consisting of boiled leather and cloth undercovering.  This caparison is depicting a battle between a monstrous dragon and regal griffin.  You could put this on a friendly medium quadruped."
+      },
+      {
+        "id": "ancientdragon",
+        "text": "A full barding for medium quadrupeds consisting of boiled leather and cloth undercovering.  This caparison is depicting a red dragon breathing fire on cities.  You could put this on a friendly medium quadruped."
+      },
+      {
+        "id": "criticalbear",
+        "text": "A full barding for medium quadrupeds consisting of boiled leather and cloth undercovering.  This caparison is depicting a bear on its hind legs and forelegs outstretched in a menacing manner.  You could put this on a friendly medium quadruped."
+      },
+      {
+        "id": "orange",
+        "text": "A full barding for medium quadrupeds consisting of boiled leather and cloth undercovering.  This caparison is depicting an assortment of fruits and vegetables with a very large orange featured in the foreground.  You could put this on a friendly medium quadruped."
+      },
+      {
+        "id": "vulture",
+        "text": "A full barding for medium quadrupeds consisting of boiled leather and cloth undercovering.  This caparison is depicting a massive vulture perched on a mountain.  You could put this on a friendly medium quadruped."
+      },
+      {
+        "id": "direboar",
+        "text": "A full barding for medium quadrupeds consisting of boiled leather and cloth undercovering.  This caparison is depicting the mythical Erymanthian boar in various artistic forms.  You could put this on a friendly medium quadruped."
+      },
+      {
+        "id": "rycon",
+        "text": "A full barding for medium quadrupeds consisting of boiled leather and cloth undercovering.  This caparison seems to be sponsored by Rycon Construction, with a tag line of \"From down under to your home, we play all the roles from start to finish!\".  You could put this on a friendly medium quadruped."
+      },
+      {
+        "id": "coregentech",
+        "text": "A full barding for medium quadrupeds consisting of boiled leather and cloth undercovering.  This caparison seems to be sponsored by Core Generator Tech, with a tag line of \"Providing power solutions from culinary to graphic design, we have the magic touch for your problems!\".  You could put this on a friendly medium quadruped."
+      }
+    ]
+  }
+]
